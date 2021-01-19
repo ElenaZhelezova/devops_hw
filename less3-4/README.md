@@ -8,6 +8,9 @@
 
 ![](./0_awk_puzzles.png)
 
+* most frequent browser with pure awk
+![](./0_pure_awk.png)
+
 
 ### 1.  sed
 

@@ -1,0 +1,12 @@
+#!/usr/bin/awk -f
+
+{x[$12]++; next}
+END {
+ max = 0;
+ for(i in x){
+     if(x[i] > max){
+         max = x[i]
+         browser = i}}
+             
+ print "the mosts frequent browser is: " browser " used " max " times."
+}
