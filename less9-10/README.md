@@ -22,6 +22,9 @@ webserver from localhost and port forwarding
 ![](1_7_1_webserver.png)
 reaching webserver from VM localhost
 
+![](1_9_webserver_webpage_in_browser.png)
+webserver webpage in browser on host machine
+
 
 ### 2. 
 ![](2_1_havana.png)
@@ -30,5 +33,10 @@ relocate
 ![](2_2_journalctl.png)
 systemd journal messages recorded in the last 50 minutes
 and started with user id 81
+
+![](2_3_1_conf.png)
+configuring rsyslog
+
+![](2_3_2_logger.png)
 
 
