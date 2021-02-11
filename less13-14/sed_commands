@@ -1,0 +1,4 @@
+s/at\s/You have a problem with entity /g
+s/(/! You can find more info about it in file /g
+s/\:/ at line /g
+s/)/. This file is written on java./g
