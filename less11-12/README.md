@@ -7,6 +7,12 @@ ip a with one ip address and adding second ip
 ![](1_2_ssh_to_second_ip.png)
 ssh connection to second ip + ip a
 
+![](1_3_adding_ip_from_another_subnet.png)
+adding ip from another subnet
+
+![](1_4_ping_from_host.png)
+ping another subnet ip
+
 
 ### 2. 
 ![](2_1.png)
@@ -37,3 +43,6 @@ aggressive nmap scanning, 60022 - ssh port
 ### 5.
 ![](5_1_icmp_message.png)
 icmp message 
+
+![](5_2_icmp_data_lo.png)
+icmp data on localhost
